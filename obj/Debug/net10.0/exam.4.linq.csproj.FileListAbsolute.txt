@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\exam.4.linq\bin\Debug\net10.0\exam.4.linq.exe
+C:\Users\пк\Desktop\exam.4.linq\bin\Debug\net10.0\exam.4.linq.deps.json
+C:\Users\пк\Desktop\exam.4.linq\bin\Debug\net10.0\exam.4.linq.runtimeconfig.json
+C:\Users\пк\Desktop\exam.4.linq\bin\Debug\net10.0\exam.4.linq.dll
+C:\Users\пк\Desktop\exam.4.linq\bin\Debug\net10.0\exam.4.linq.pdb
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.AssemblyInfo.cs
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.dll
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\refint\exam.4.linq.dll
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.pdb
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\exam.4.linq.genruntimeconfig.cache
+C:\Users\пк\Desktop\exam.4.linq\obj\Debug\net10.0\ref\exam.4.linq.dll
